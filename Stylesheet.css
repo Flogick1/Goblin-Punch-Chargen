@@ -8,3 +8,11 @@ div {
 .stat {
     flex: 1;
 }
+
+.charactersheet {
+    display: flex;
+}
+
+.pane {
+    flex: 1;
+}
