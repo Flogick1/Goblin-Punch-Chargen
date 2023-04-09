@@ -1,8 +1,10 @@
 div {
     padding:10px
+    border: 2px solid black;
 }
 .statistics {
     display: flex;
+    color:darkgray;
 }
 
 .stat {
@@ -11,6 +13,7 @@ div {
 
 .characterSheet {
     display: flex;
+    color: lightgray;
 }
 
 .pane {
